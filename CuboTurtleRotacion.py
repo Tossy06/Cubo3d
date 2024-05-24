@@ -89,6 +89,7 @@ def rotar_punto(punto, angulo, punto_fijo):
 x = 0
 y = 0
 t = 100
+
 vertice1(0, 0, t)
 vertice2(x + 25, y + 35, t)
 
